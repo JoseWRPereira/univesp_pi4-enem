@@ -25,12 +25,3 @@ Foram tomados como objeto de análise os participantes dos municípios de Baruer
 
 
 
-# Referências
-
-[RFC4180](https://datatracker.ietf.org/doc/html/rfc4180) regulamenta o formato .csv na internet.
-
-
-
-
-
-

@@ -30,6 +30,19 @@ Foram tomados como objeto de análise os participantes dos municípios de Baruer
 [RFC4180](https://datatracker.ietf.org/doc/html/rfc4180) regulamenta o formato .csv na internet.
 
 
+## Add Virtualenv as Python Kernel
+
+```
+# Activate the virtualenv
+$ source your-venv/bin/activate
+
+# Install jupyter in the virtualenv
+(your-venv)$ pip install jupyter
+
+# Add the virtualenv as a jupyter kernel
+(your-venv)$ ipython kernel install --name "local-venv" --user
+```
+
 
 
 
